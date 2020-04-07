@@ -1,6 +1,6 @@
 # SimpleDiceRoll
 
-A simple and easy program for rolling dice with python1
+A simple and easy program for rolling dice with python.
 
 This program is fairly easy to use. Make sure that you only answer questions with a "yes" or "no" or a number.
 
